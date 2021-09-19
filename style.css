@@ -1,0 +1,18 @@
+
+*{
+    box-sizing: border-box;
+    padding:0;
+    margin : auto;
+}
+html, body{
+    width:100%;
+    
+}
+
+#container{
+    width:500px;
+    height:700px;
+    background-color: rgb(200,200,200, 0.3);
+    margin : 50px auto;
+    border-radius: 10%;
+}
